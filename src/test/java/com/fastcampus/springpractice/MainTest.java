@@ -2,9 +2,11 @@ package com.fastcampus.springpractice;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.*;
+
 /**
- * packageName    : PACKAGE_NAME
- * fileName       : com.fastcampus.springpractice.MainTest
+ * packageName    : com.fastcampus.springpractice
+ * fileName       : MainTest
  * author         : yebin
  * date           : 2024-04-13
  * description    :
@@ -19,4 +21,5 @@ class MainTest {
         Main.main(args);
 
     }
+
 }
